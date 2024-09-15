@@ -28,8 +28,6 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 
 - [Awesome Care Streaming  ](#awesome-care-streaming--)
   - [Contents](#contents)
-  - [Featured (new releases)](#featured-new-releases)
-  - [Section 1](#section-1)
   - [Accessibility Technology](#accessibility-technology)
   - [iOS](#ios)
   - [Android](#android)
@@ -43,14 +41,6 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
     - [Contributors](#contributors)
 
 <!-- CONTENT -->
-
-## Featured (new releases)
-
-- [Apple](https://apple.com) - Apple as a placeholder.
-
-## Section 1
-
-- [Microsoft](https://www.microsoft.com/) - Microsoft as an example.
 
 ## Accessibility Technology
 - [Quadstick](https://www.quadstick.com/) Mouth-operated joystick designed for individuals with limited or no use of their hands, enabling computer access and gaming.
