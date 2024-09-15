@@ -102,7 +102,7 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [HitomiDownloader - KurtBestor](https://github.com/KurtBestor/Hitomi-Downloader) - Free desktop utility to download images/videos/music/text from various websites, and more.
 - [OBS](https://obsproject.com/download)
 - [Streamer.Bot](https://streamer.bot/)
-- [Twitchat (Win)](https://twitchat.fr/) - Free tool for making 
+- [Twitchat (Win)](https://twitchat.fr/) - Free tool for making Plug-N-Play customizable features and improvements for your livestream. Web-based stream management tool with pre-made features importable with a few clicks.
 ## OSX (Mac)
 - [ClipMenu](https://www.clipmenu.com/) - Clipboard History Tool for OSX
 - [MacApps](https://macapps.link/en/) - Installs multiple apps at once. Great for setting up a new computer.
