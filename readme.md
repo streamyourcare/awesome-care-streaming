@@ -34,8 +34,6 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [Streaming Software](#streaming-software)
 - [Streaming Guides](#streaming-guides)
 - [Follow](#follow)
-- [Contributing](#contributing)
-  - [Contributors](#contributors)
 
 <!-- CONTENT -->
 
