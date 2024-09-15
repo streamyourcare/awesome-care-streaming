@@ -44,32 +44,32 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [MouthPad](https://www.augmental.tech/) - Mouth-controlled input device (like a retainer with buttons) offering those with mobility limitations access to operate their mobile or desktop devices.
 - [Glydr](https://www.glydr.gg/) - Foot-based game controller that offers game joystick/keyboard input for games, optional switches and peripherals are available.
 - [Tecla-E](https://gettecla.com/products/tecla-e) - Control your smart home devices and mobile tech using accessible switches.
-- [GlassOuse Assistive Device](https://glassouse.com/product/glassouse-pro/) - Head-operated mouse for users with limited hand mobility to control computers, phones, and smart home devices with head movements.
-- [QuadJoy from QuadLife](https://quad.life/products-builder/p/quadjoy4kit) - A sip-and-puff joystick for individuals to operate computers, smart-phone.
-- [SmyleMouse](https://smylemouse.com/shop/) - $30/m or $499 for Lifetime License A head controlled mouse software that allows hands free control of a computer using facial gestures.
-- [TetraMouse](https://tetramouse.com/) - $350 - $450 Mouth-operated mouse with models
-- [Orin Headmouse](https://www.orin.com/access/headmouse/) - Head-tracking mouse that translates head movement into cursor control.
+- [GlassOuse Assistive Device](https://glassouse.com/product/glassouse-pro/) - Head-operated mouse for users with limited hand mobility to control computers, phones, and smart home devices with head movements.
+- [QuadJoy from QuadLife](https://quad.life/products-builder/p/quadjoy4kit) - A sip-and-puff joystick for individuals to operate computers, smart-phone.
+- [SmyleMouse](https://smylemouse.com/shop/) - $30/m or $499 for Lifetime License A head controlled mouse software that allows hands free control of a computer using facial gestures.
+- [TetraMouse](https://tetramouse.com/) - $350 - $450 Mouth-operated mouse with models
+- [Orin Headmouse](https://www.orin.com/access/headmouse/) - Head-tracking mouse that translates head movement into cursor control.
 - [Wii Remote-based Game Controls with OpenTrack](https://github.com/opentrack/opentrack/wiki/Wiimote-with-opentrack)
 - [Xbox Adaptable Controller (XAC)](https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller)
 - [Tobii Dynavox](https://us.tobiidynavox.com/) / [Pro-Glasses 3 (Apply)](https://www.tobii.com/products/eye-trackers/wearables/tobii-pro-glasses-3#form)
 - [Amazon Echo Dot 3](https://a.co/d/7IIIwiN) / [Google Nest (& Mini)](https://store.google.com/us/product/nest_audio?hl=en-US) - Smart speakers that provide voice-controlled asstance, music playback, smart home control, and a number of accessibility extensions.
-- [LipSync](https://www.makersmakingchange.com/s/product/lipsync/01tJR000000698fYAA) - Mouth-operated input devices that enables individuals with limited hand mobility to control their computers and mobile devices
-- [TD-I Series](https://us.tobiidynavox.com/pages/how-to-buy?refUrl=https://us.tobiidynavox.com/products/td-i-series) - A collection of speech-generating devices from Tobii Dynavox that empower individuals with communication disabilities to express themselves and engage with the world.
+- [LipSync](https://www.makersmakingchange.com/s/product/lipsync/01tJR000000698fYAA) - Mouth-operated input devices that enables individuals with limited hand mobility to control their computers and mobile devices
+- [TD-I Series](https://us.tobiidynavox.com/pages/how-to-buy?refUrl=https://us.tobiidynavox.com/products/td-i-series) - A collection of speech-generating devices from Tobii Dynavox that empower individuals with communication disabilities to express themselves and engage with the world.
 ## iOS
 - [Hawkeye Sidekick](https://apps.apple.com/us/app/hawkeye-sidekick/id1492668756) -"An iOS application that facilitates the control of a Mac computer through the utilization of head movements.") lets you control your Mac using head movements. Rotate your head to move the mouse and make facial expressions to click, drag, and scroll. Powered by your iPhone or iPad's TrueDepth camera.
-- [Voice Access](https://support.apple.com/en-us/111778) - Operate your iOS 13+ device with your voice
-- [Envision AI](https://apps.apple.com/us/app/envision-ai/id1268632314) - Envision is developed for and together with the visually impaired community. The app is simple, gets things done and brings the best assistive experience to blind and low vision users.
-- [iOS Photos App](https://support.apple.com/photos) - The stock image library app on iOS devices (built in OCR since iOS 15)
-- [Seeing AI](https://apps.apple.com/us/app/seeing-ai/id999062298) - Seeing AI is a free app that narrates the world around you. Designed with and for the blind and low vision community, this ongoing research project harnesses the power of AI to open up the visual world by describing nearby people, text and objects.
-- [Bing Co-Pilot](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) - A large language model chatbot developed by Microsoft (released in Feb 2023). Co-Pilot can write todo lists, recommend meals, answer specific complex questions with a comprehensive approach.
-- [Perplexity Search](https://apps.apple.com/us/app/perplexity-ask-anything/id1668000334) - Guided AI search for deeper exploration.
+- [Voice Access](https://support.apple.com/en-us/111778) - Operate your iOS 13+ device with your voice
+- [Envision AI](https://apps.apple.com/us/app/envision-ai/id1268632314) - Envision is developed for and together with the visually impaired community. The app is simple, gets things done and brings the best assistive experience to blind and low vision users.
+- [iOS Photos App](https://support.apple.com/photos) - The stock image library app on iOS devices (built in OCR since iOS 15)
+- [Seeing AI](https://apps.apple.com/us/app/seeing-ai/id999062298) - Seeing AI is a free app that narrates the world around you. Designed with and for the blind and low vision community, this ongoing research project harnesses the power of AI to open up the visual world by describing nearby people, text and objects.
+- [Bing Co-Pilot](https://apps.apple.com/us/app/microsoft-copilot/id6472538445) - A large language model chatbot developed by Microsoft (released in Feb 2023). Co-Pilot can write todo lists, recommend meals, answer specific complex questions with a comprehensive approach.
+- [Perplexity Search](https://apps.apple.com/us/app/perplexity-ask-anything/id1668000334) - Guided AI search for deeper exploration.
 - [Discord](https://apps.apple.com/us/app/discord-chat-talk-hangout/id985746746) - Community social media app for managing your topic/interest-focused communities.
-- [Facebook Groups](https://www.facebook.com/groups/) - Search for local or general groups you identify with.
+- [Facebook Groups](https://www.facebook.com/groups/) - Search for local or general groups you identify with.
 - [LinkedIn](https://www.linkedin.com/signup)(& [LinkedIn Groups](https://www.linkedin.com/help/linkedin/answer/a544795/finding-and-joining-a-linkedin-group?lang=en))
-- [Nextdoor (US-only*)](https://apps.apple.com/us/app/nextdoor-neighborhood-network/id640360962) - A neighborhood app for staying in the loop regarding local events, markets, and opportunities.
-- [PatientsLikeMe](https://apps.apple.com/in/app/patientslikeme/id1237832232) - A social media app for sharing regular updates with people that share your condition. ([Patients Like Me Data-Use Policies](https://blog.patientslikeme.com/health-conditions/als/what-data-do-we-sell-a-continued-discussion-about-data-scraping/))
-- [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669) - A free, secure messaging app that uses end-to-end encryption to keep your conversations private. Share text, voice messages, photos, videos, GIFs and files for free.
-- [AR WIFi&5G](https://apps.apple.com/us/app/ar-wifi-5g/id1556085228) - Visualize wireless signal strength with augmented reality.
+- [Nextdoor (US-only*)](https://apps.apple.com/us/app/nextdoor-neighborhood-network/id640360962) - A neighborhood app for staying in the loop regarding local events, markets, and opportunities.
+- [PatientsLikeMe](https://apps.apple.com/in/app/patientslikeme/id1237832232) - A social media app for sharing regular updates with people that share your condition. ([Patients Like Me Data-Use Policies](https://blog.patientslikeme.com/health-conditions/als/what-data-do-we-sell-a-continued-discussion-about-data-scraping/))
+- [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669) - A free, secure messaging app that uses end-to-end encryption to keep your conversations private. Share text, voice messages, photos, videos, GIFs and files for free.
+- [AR WIFi&5G](https://apps.apple.com/us/app/ar-wifi-5g/id1556085228) - Visualize wireless signal strength with augmented reality.
 ## Android
 - [Android Accessibility Suite](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback&hl=en&gl=us) - Android Accessibility Suite is a collection of accessibility apps that help you use your Android device eyes-free or with a switch device (**Features**: `Accessibility Menu`, `Select to Speak`, `TalkBack screen reader).
 - [BIG Launcher](https://play.google.com/store/apps/details?id=name.kunes.android.launcher.demo&hl=en&gl=us) - A fast and simple Android home screen for seniors and people with vision problems (Free with in-app purchases).
