@@ -32,7 +32,7 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
   - [iOS](#ios)
   - [Android](#android)
   - [PC (Windows)](#pc-windows)
-  - [OSX (Mac)](#osx-mac)
+  - [macOS](#macOS)
   - [Web-based Tools](#web-based-tools)
   - [Streaming Software](#streaming-software)
   - [Streaming Guides](#streaming-guides)
@@ -80,7 +80,7 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [iAccess Life - Accessibility](https://play.google.com/store/apps/details?id=com.iaccessapp&hl=en&gl=us) - Notifies people with disabilities what accessible locations are in their area. Leave reviews for locations to share their accessibility.
 - [Prism Live](https://play.google.com/store/apps/details?id=com.prism.live) - Reliable app for screen and/or camera recording livestreams on Twitch. Manual privacy [overlay](https://streamyourcare.com/GLOSSARY.html#overlay "A visual element which displays or covers a streamer and can be customized to the streamer’s preferences") capability.
 - [Twitch Mobile (Android)](https://play.google.com/store/apps/details?id=tv.twitch.android.app&hl=en_US&gl=US) - [IRL](https://streamyourcare.com/GLOSSARY.html#irl "Abbreviation of “In Real Life”") front or back camera streaming or stream mobile games/apps.
-- [Discord](https://play.google.com/store/apps/details?id=com.discord) - Community social media app for managing your topic/interest-focused communities. [Free Care Streamer Community Template (with 🔔alert roles🔔)](https://medium.com/@faulknerfellowship/care-stream-discord-template-community-roles-command-setup-bdefb118e263)
+- [Discord](https://play.google.com/store/apps/details?id=com.discord) - Community social media app for managing your topic/interest-focused communities.
 - [PatientsLikeMe](https://play.google.com/store/apps/details?id=com.patientslikeme.android&hl=en_US&gl=US&pli=1) - A social media app for sharing regular updates with people that share your condition.
 - [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) - a free, secure messaging app that uses end-to-end encryption to keep your conversations private. Share text, voice messages, photos, videos, GIFs and files for free.
 - [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp) - a free messaging and video calling app by Meta.
@@ -103,7 +103,7 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [OBS](https://obsproject.com/download)
 - [Streamer.Bot](https://streamer.bot/)
 - [Twitchat (Win)](https://twitchat.fr/) - Free tool for making Plug-N-Play customizable features and improvements for your livestream. Web-based stream management tool with pre-made features importable with a few clicks.
-## OSX (Mac)
+## macOS
 - [ClipMenu](https://www.clipmenu.com/) - Clipboard History Tool for OSX
 - [MacApps](https://macapps.link/en/) - Installs multiple apps at once. Great for setting up a new computer.
 - [Sindre Sorhus Mac Apps](https://sindresorhus.com/apps) - Free Mac Apps from Sindre Sorhus.
@@ -114,7 +114,7 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 ## Web-based Tools
 - [Opus.Pro](https://opus.pro/) - Auto-clips & captions 90 minutes worth of videos for free.
 - [Chrome Remote Desktop](https://remotedesktop.google.com/) - For remote computer support from trusted-friends and family.
-- [Privacy.Sexy](https://privacy.sexy/) - Hundreds of scripts that aims to give you control of your data on Windows and Mac OSX.
+- [Privacy.Sexy](https://privacy.sexy/) - Hundreds of scripts that aims to give you control of your data on Windows and macOS.
 - [BetterTTV](https://betterttv.com/) - A browser extension for Twitch and YouTube that adds new features, emotes, and more. Easily customize your chat, make it easier to read and moderate.
 - [Clipboard History Pro](https://chromewebstore.google.com/detail/clipboard-history-pro-bes/ajiejmhbejpdgkkigpddefnjmgcbkenk) - increase your clipboard history to 250+
 - [Honey: Automatic Coupons & Rewards](https://chromewebstore.google.com/detail/wot-website-security-safe/bhmmomiinigofkjcapegjjndpbikblnp)
