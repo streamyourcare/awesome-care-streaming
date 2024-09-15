@@ -65,7 +65,8 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [Perplexity Search](https://apps.apple.com/us/app/perplexity-ask-anything/id1668000334) - Guided AI search for deeper exploration.
 - [Discord](https://apps.apple.com/us/app/discord-chat-talk-hangout/id985746746) - Community social media app for managing your topic or interest-focused communities.
 - [Facebook Groups](https://www.facebook.com/groups/) - Search for local or general groups you identify with.
-- [LinkedIn](https://www.linkedin.com/signup)(& [LinkedIn Groups](https://www.linkedin.com/help/linkedin/answer/a544795/finding-and-joining-a-linkedin-group?lang=en))
+- [LinkedIn](https://www.linkedin.com/signup)
+- [LinkedIn Groups](https://www.linkedin.com/help/linkedin/answer/a544795/finding-and-joining-a-linkedin-group?lang=en)
 - [Nextdoor (US-only*)](https://apps.apple.com/us/app/nextdoor-neighborhood-network/id640360962) - A neighborhood app for staying in the loop regarding local events, markets, and opportunities.
 - [PatientsLikeMe](https://apps.apple.com/in/app/patientslikeme/id1237832232) - A social media app for sharing regular updates with people that share your condition. ([Patients Like Me Data-Use Policies](https://blog.patientslikeme.com/health-conditions/als/what-data-do-we-sell-a-continued-discussion-about-data-scraping/))
 - [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669) - A free, secure messaging app that uses end-to-end encryption to keep your conversations private. Share text, voice messages, photos, videos, GIFs and files for free.
@@ -78,14 +79,13 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [Prism Live](https://play.google.com/store/apps/details?id=com.prism.live) - Reliable app for screen or camera recording livestreams on Twitch. Manual privacy overlay.
 - [Twitch Mobile (Android)](https://play.google.com/store/apps/details?id=tv.twitch.android.app&hl=en_US&gl=US) - IRL front or back camera streaming or stream mobile games/apps.
 - [Discord](https://play.google.com/store/apps/details?id=com.discord) - Community social media app for managing your topic/interest-focused communities.
-- [PatientsLikeMe](https://play.google.com/store/apps/details?id=com.patientslikeme.android&hl=en_US&gl=US&pli=1) - A social media app for sharing regular updates with people that share your condition.
 - [Signal](https://play.google.com/store/apps/details?id=org.thoughtcrime.securesms) - A free, secure messaging app that uses end-to-end encryption to keep your conversations private. Share text, voice messages, photos, videos, GIFs and files for free.
 - [WhatsApp](https://play.google.com/store/apps/details?id=com.whatsapp) - A free messaging and video calling app by Meta.
 - [AR WIFi&5G](https://play.google.com/store/apps/details?id=ua.com.wifisolutions.wifivr&hl=en_US&gl=US&pli=1) - Visualize wireless signal strength with augmented reality.
 - [Evernote - Note Organizer](https://play.google.com/store/apps/details?id=com.evernote&hl=en&gl=us) - Capture ideas when inspiration strikes. Bring your notes, to-dos, and schedule together to tame lifes distractions and accomplish more at work, at home, and everywhere in between.
 - [Todo Agenda](https://play.google.com/store/apps/details?id=org.andstatus.todoagenda) - Home screen widgets for your Android device. Each widget has its own settings and displays configured list of calendar events and tasks so that you can easily have a glimpse at your due, current and upcoming appointments.
 - [Khan Academy](https://play.google.com/store/apps/details?id=org.khanacademy.android&hl=en&gl=us) - "Learn anything for free", a vast range of free topic courses.
-- [InShot](https://play.google.com/store/apps/details?id=com.camerasideas.instashot)(Free with ads) - Powerful all-in-one Video Editor and Video Maker with professional features. Add music, text, transition effects for videos, make smooth slow motion, make video collage, blur background and etc!
+- [InShot](https://play.google.com/store/apps/details?id=com.camerasideas.instashot&pcampaignid=web_share) - Powerful all-in-one Video Editor and Video Maker with professional features. Add music, text, transition effects for videos, make smooth slow motion, make video collage, blur background and etc!
 - [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) - Snapseed is a complete and professional photo editor developed by Google.
 ## PC (Windows)
 - [Ninite](https://ninite.com/) - Great for installing multiple programs at once on a new computer.
@@ -133,7 +133,6 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [Overcoming Unmotivated Streaming](https://www.youtube.com/watch?v=lY7gb2SahyI)
 - [How to  a Disability Advocate - Olivia Holler (Cripple Media)](https://cripplemedia.com/how-to-become-a-disability-advocate/)
 - [Netflix Cameras & Image Capture: Requirements & Best Practices](https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-Image-Capture-Requirements-and-Best-Practices)
-- [National Council of Elder Abuse Social Media Guides](https://pfs2.acl.gov/strapib/assets/Social_Media_Tips_2021_0aedeb5185.pdf)
 
 <!-- END CONTENT -->
 
@@ -141,7 +140,7 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 We've had the opportunity to interview these livestreamers with disabilities. They have inspired a lot of the tools and configurations we make, please go check them out and give them a follow 😁
 
 - SteamyBiscuit ![YT](https://svgshare.com/i/1AS5.svg) [YouTube](https://www.youtube.com/c/SteamyBiscuit) ![TwitchIcon](https://svgshare.com/i/1AQN.svg) [Twitch](https://www.twitch.tv/steamybiscuit) ![TT](https://svgshare.com/i/1ASR.svg) [TikTok](https://www.tiktok.com/@steamybiscuitx)
-- GucciMula160 ![TwitchIcon](https://svgshare.com/i/1AQN.svg) [Twitch](https://twitch.tv/Gucci_Mula160) ![YT](https://svgshare.com/i/1AS5.svg) [YouTube](https://www.youtube.com/@guccimula160) [Kick](https://kick.com/gucci_mula160) ![TT](https://svgshare.com/i/1ASR.svg) [TikTok](https://www.tiktok.com/@guccimula160)
+- GucciMula160 ![TwitchIcon](https://svgshare.com/i/1AQN.svg) [Twitch](https://twitch.tv/Gucci_Mula160) ![YT](https://svgshare.com/i/1AS5.svg) [YouTube](https://www.youtube.com/@guccimula160) ![TT](https://svgshare.com/i/1ASR.svg) [TikTok](https://www.tiktok.com/@guccimula160)
 - EddieMancuso ![TT](https://svgshare.com/i/1ASR.svg) [TikTok](https://www.tiktok.com/@ta51722) [Twitch](https://twitch.tv/EddieMancuso) [Instagram](https://www.instagram.com/p/C4Wn_prhCX8/)
 - BrianJones ![TT](https://svgshare.com/i/1ASR.svg) [TikTok](https://www.tiktok.com/@brianjones2702)
 - IllenialWheeler [Twitch](https://twitch.tv/illenialwheeler) ![YT](https://svgshare.com/i/1AS5.svg) [YouTube](https://www.youtube.com/channel/UCvrMDgtDVkt_KoohAqUv9MQ) [X (Twitter)](https://twitter.com/illenialwheeler)
@@ -155,4 +154,4 @@ We've had the opportunity to interview these livestreamers with disabilities. Th
 
 ### Contributors
 
-[Thanks goes to these contributors](https://github.com/YOUR_GITHUB_USER/YOUR_REPO/graphs/contributors)!
+[Thanks goes to these contributors](https://github.com/streamyourcare/awesome-care-streaming/graphs/contributors)!
