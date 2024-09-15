@@ -29,7 +29,7 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [iOS](#ios)
 - [Android](#android)
 - [PC (Windows)](#pc-windows)
-- [MacOS](#macOS)
+- [macOS](#macos)
 - [Web-based Tools](#web-based-tools)
 - [Streaming Software](#streaming-software)
 - [Streaming Guides](#streaming-guides)
@@ -98,7 +98,7 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [Calibre - eBook manager](https://calibre-ebook.com/)
 - [Search Everything](https://www.voidtools.com/)
 - [HitomiDownloader - KurtBestor](https://github.com/KurtBestor/Hitomi-Downloader) - Free desktop utility to download images/videos/music/text from various websites, and more.
-## MacOS
+## macOS
 - [ClipMenu](https://www.clipmenu.com/) - Clipboard History Tool for macOS.
 - [MacApps](https://macapps.link/en/) - Installs multiple apps at once. Great for setting up a new computer.
 - [Sindre Sorhus Mac Apps](https://sindresorhus.com/apps) - Free Mac Apps from Sindre Sorhus.
