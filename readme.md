@@ -29,7 +29,7 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [iOS](#ios)
 - [Android](#android)
 - [PC (Windows)](#pc-windows)
-- [macOS](#macOS)
+- [MacOS](#macOS)
 - [Web-based Tools](#web-based-tools)
 - [Streaming Software](#streaming-software)
 - [Streaming Guides](#streaming-guides)
@@ -109,8 +109,8 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [Chrome Remote Desktop](https://remotedesktop.google.com/) - For remote computer support from trusted-friends and family.
 - [Privacy.Sexy](https://privacy.sexy/) - Hundreds of scripts that aims to give you control of your data on Windows and macOS.
 - [BetterTTV](https://betterttv.com/) - A browser extension for Twitch and YouTube that adds new features, emotes, and more. Easily customize your chat, make it easier to read and moderate.
-- [Clipboard History Pro](https://chromewebstore.google.com/detail/clipboard-history-pro-bes/ajiejmhbejpdgkkigpddefnjmgcbkenk) - Increase your clipboard history to 250+
-- [uBlock Origin (Adblock)](https://ublockorigin.com/) - A wide-spectrum content blocker with CPU and memory efficiency as a primary feature
+- [Clipboard History Pro](https://chromewebstore.google.com/detail/clipboard-history-pro-bes/ajiejmhbejpdgkkigpddefnjmgcbkenk) - Increase your clipboard history to over 250 entries.
+- [uBlock Origin (Adblock)](https://ublockorigin.com/) - A wide-spectrum content blocker with CPU and memory efficiency as a primary feature.
 - [OneTab](https://chromewebstore.google.com/detail/onetab/chphlpgkkbolifaimnlloiipkdnihall) - Consolidate all of your tabs onto one page for easy access and storage.
 - [News Feed Eradicator](https://chromewebstore.google.com/detail/news-feed-eradicator/fjcldmjmjhkklehbacihaiopjklihlgg) - Removes Facebook feed, replaces with an inspiring quote.
 - [UnHook](https://chromewebstore.google.com/detail/unhook-hide-youtube-recom/khncfooichmfjbepaaaebmommgaepoid) - Disables YouTube default layout (just a Search bar, very customizable!)
