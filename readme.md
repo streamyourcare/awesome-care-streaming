@@ -40,10 +40,10 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 <!-- CONTENT -->
 
 ## Accessibility Technology
-- [Quadstick](https://www.quadstick.com/) - Mouth-operated joystick designed for individuals with limited or no use of their hands, enabling computer access and gaming.
-- [MouthPad](https://www.augmental.tech/) - Mouth-controlled input device (like a retainer with buttons) offering those with mobility limitations access to operate their mobile or desktop devices.
-- [Glydr](https://www.glydr.gg/) - Foot-based game controller that offers game joystick/keyboard input for games, optional switches and peripherals are available.
-- [Tecla-E](https://gettecla.com/products/tecla-e) - Control your smart home devices and mobile tech using accessible switches.
+- [Quadstick](https://www.quadstick.com/) - Mouth-operated joystick designed for individuals with limited or no use of their hands, enabling computer access and gaming.
+- [MouthPad](https://www.augmental.tech/) - Mouth-controlled input device (like a retainer with buttons) offering those with mobility limitations access to operate their mobile or desktop devices.
+- [Glydr](https://www.glydr.gg/) - Foot-based game controller that offers game joystick/keyboard input for games, optional switches and peripherals are available.
+- [Tecla-E](https://gettecla.com/products/tecla-e) - Control your smart home devices and mobile tech using accessible switches.
 - [GlassOuse Assistive Device](https://glassouse.com/product/glassouse-pro/) - Head-operated mouse for users with limited hand mobility to control computers, phones, and smart home devices with head movements.
 - [QuadJoy from QuadLife](https://quad.life/products-builder/p/quadjoy4kit) - A sip-and-puff joystick for individuals to operate computers, smart-phone.
 - [SmyleMouse](https://smylemouse.com/shop/) - $30/m or $499 for Lifetime License A head controlled mouse software that allows hands free control of a computer using facial gestures.
@@ -96,7 +96,7 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [Calibre - eBook manager](https://calibre-ebook.com/)
 - [Search Everything](https://www.voidtools.com/)
 - [HitomiDownloader - KurtBestor](https://github.com/KurtBestor/Hitomi-Downloader) - Free desktop utility to download images/videos/music/text from various websites, and more.
-## macOS
+# macOS
 - [ClipMenu](https://www.clipmenu.com/) - Clipboard History Tool for macOS.
 - [MacApps](https://macapps.link/en/) - Installs multiple apps at once. Great for setting up a new computer.
 - [Sindre Sorhus Mac Apps](https://sindresorhus.com/apps) - Free Mac Apps from Sindre Sorhus.
