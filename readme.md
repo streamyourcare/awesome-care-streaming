@@ -25,9 +25,6 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 <!-- TOC -->
 
 ## Contents
-
-- [Awesome Care Streaming  ](#awesome-care-streaming--)
-  - [Contents](#contents)
   - [Accessibility Technology](#accessibility-technology)
   - [iOS](#ios)
   - [Android](#android)
