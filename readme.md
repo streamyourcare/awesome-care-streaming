@@ -150,14 +150,14 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 ## Follow
 We've had the opportunity to interview these livestreamers with disabilities. They have inspired a lot of the tools and configurations we make, please go check them out and give them a follow 😁
 
-- SteamyBiscuit [YouTube](https://www.youtube.com/c/SteamyBiscuit) [Twitch](https://www.twitch.tv/steamybiscuit) [TikTok](https://www.tiktok.com/@steamybiscuitx)
-- GucciMula160 [Twitch](https://twitch.tv/Gucci_Mula160) [YouTube](https://www.youtube.com/@guccimula160) [Kick](https://kick.com/gucci_mula160) [TikTok](https://www.tiktok.com/@guccimula160)
-- EddieMancuso [TikTok](https://www.tiktok.com/@ta51722) [Twitch](https://twitch.tv/EddieMancuso) [Instagram](https://www.instagram.com/p/C4Wn_prhCX8/)
-- BrianJones [TikTok](https://www.tiktok.com/@brianjones2702)
-- IllenialWheeler [Twitch](https://twitch.tv/illenialwheeler) [YouTube](https://www.youtube.com/channel/UCvrMDgtDVkt_KoohAqUv9MQ) [X (Twitter)](https://twitter.com/illenialwheeler)
-- MyahRichards920 [TikTok](https://www.tiktok.com/@myahrichards920)
+- SteamyBiscuit ![YT](https://svgshare.com/i/1AS5.svg) [YouTube](https://www.youtube.com/c/SteamyBiscuit) ![TwitchIcon](https://svgshare.com/i/1AQN.svg) [Twitch](https://www.twitch.tv/steamybiscuit) ![TT](https://svgshare.com/i/1ASR.svg) [TikTok](https://www.tiktok.com/@steamybiscuitx)
+- GucciMula160 ![TwitchIcon](https://svgshare.com/i/1AQN.svg) [Twitch](https://twitch.tv/Gucci_Mula160) ![YT](https://svgshare.com/i/1AS5.svg) [YouTube](https://www.youtube.com/@guccimula160) [Kick](https://kick.com/gucci_mula160) ![TT](https://svgshare.com/i/1ASR.svg) [TikTok](https://www.tiktok.com/@guccimula160)
+- EddieMancuso ![TT](https://svgshare.com/i/1ASR.svg) [TikTok](https://www.tiktok.com/@ta51722) [Twitch](https://twitch.tv/EddieMancuso) [Instagram](https://www.instagram.com/p/C4Wn_prhCX8/)
+- BrianJones ![TT](https://svgshare.com/i/1ASR.svg) [TikTok](https://www.tiktok.com/@brianjones2702)
+- IllenialWheeler [Twitch](https://twitch.tv/illenialwheeler) ![YT](https://svgshare.com/i/1AS5.svg) [YouTube](https://www.youtube.com/channel/UCvrMDgtDVkt_KoohAqUv9MQ) [X (Twitter)](https://twitter.com/illenialwheeler)
+- MyahRichards920 ![TT](https://svgshare.com/i/1ASR.svg) [TikTok](https://www.tiktok.com/@myahrichards920)
 - Tru3_Klng [Twitch](https://www.twitch.tv/tru3_klng/about)
-- StreamYourCare [Twitch](https://twitch.tv/livinginawheelchair) [YouTube](https://www.youtube.com/@Stream-Your-Care) [X](https://x.com/streamyourcare) [TikTok](https://www.tiktok.com/@faulknerfellowship)
+- StreamYourCare ![TwitchIcon](https://svgshare.com/i/1AQN.svg) [Twitch](https://twitch.tv/livinginawheelchair) ![YT](https://svgshare.com/i/1AS5.svg) [YouTube](https://www.youtube.com/@Stream-Your-Care) [X](https://x.com/streamyourcare) ![TT](https://svgshare.com/i/1ASR.svg) [TikTok](https://www.tiktok.com/@faulknerfellowship)
 
 ## Contributing
 
