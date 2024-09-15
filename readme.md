@@ -25,17 +25,17 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 <!-- TOC -->
 
 ## Contents
-  - [Accessibility Technology](#accessibility-technology)
-  - [iOS](#ios)
-  - [Android](#android)
-  - [PC (Windows)](#pc-windows)
-  - [macOS](#macOS)
-  - [Web-based Tools](#web-based-tools)
-  - [Streaming Software](#streaming-software)
-  - [Streaming Guides](#streaming-guides)
-  - [Follow](#follow)
-  - [Contributing](#contributing)
-    - [Contributors](#contributors)
+- [Accessibility Technology](#accessibility-technology)
+- [iOS](#ios)
+- [Android](#android)
+- [PC (Windows)](#pc-windows)
+- [macOS](#macOS)
+- [Web-based Tools](#web-based-tools)
+- [Streaming Software](#streaming-software)
+- [Streaming Guides](#streaming-guides)
+- [Follow](#follow)
+- [Contributing](#contributing)
+  - [Contributors](#contributors)
 
 <!-- CONTENT -->
 
