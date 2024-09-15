@@ -8,7 +8,7 @@
 
 <!-- subtitle -->
 
-An awesome list of accessibility software, tools, and configurations for livestreamers with disabilities.
+A list of awesome accessibility software, tools, and configurations for livestreamers with disabilities.
 
 <!-- image -->
 
@@ -148,10 +148,16 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 <!-- END CONTENT -->
 
 ## Follow
+We've had the opportunity to interview these livestreamers with disabilities. They have inspired a lot of the tools and configurations we make, please go check them out and give them a follow 😁
 
-<!-- list people worth following on social sites (Twitter, LinkedIn, GitHub, YouTube etc.) -->
-
-Who else should we be following!?
+- SteamyBiscuit [YouTube](https://www.youtube.com/c/SteamyBiscuit) [Twitch](https://www.twitch.tv/steamybiscuit) [TikTok](https://www.tiktok.com/@steamybiscuitx)
+- GucciMula160 [Twitch](https://twitch.tv/Gucci_Mula160) [YouTube](https://www.youtube.com/@guccimula160) [Kick](https://kick.com/gucci_mula160) [TikTok](https://www.tiktok.com/@guccimula160)
+- EddieMancuso [TikTok](https://www.tiktok.com/@ta51722) [Twitch](https://twitch.tv/EddieMancuso) [Instagram](https://www.instagram.com/p/C4Wn_prhCX8/)
+- BrianJones [TikTok](https://www.tiktok.com/@brianjones2702)
+- IllenialWheeler [Twitch](https://twitch.tv/illenialwheeler) [YouTube](https://www.youtube.com/channel/UCvrMDgtDVkt_KoohAqUv9MQ) [X (Twitter)](https://twitter.com/illenialwheeler)
+- MyahRichards920 [TikTok](https://www.tiktok.com/@myahrichards920)
+- Tru3_Klng [Twitch](https://www.twitch.tv/tru3_klng/about)
+- StreamYourCare [Twitch](https://twitch.tv/livinginawheelchair) [YouTube](https://www.youtube.com/@Stream-Your-Care) [X](https://x.com/streamyourcare) [TikTok](https://www.tiktok.com/@faulknerfellowship)
 
 ## Contributing
 
