@@ -40,23 +40,23 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 <!-- CONTENT -->
 
 ## Accessibility Technology
-- [Quadstick](https://www.quadstick.com/) Mouth-operated joystick designed for individuals with limited or no use of their hands, enabling computer access and gaming.
-- [MouthPad](https://www.augmental.tech/) Mouth-controlled input device (like a retainer with buttons) offering those with mobility limitations access to operate their mobile or desktop devices.
+- [Quadstick](https://www.quadstick.com/) - Mouth-operated joystick designed for individuals with limited or no use of their hands, enabling computer access and gaming.
+- [MouthPad](https://www.augmental.tech/) - Mouth-controlled input device (like a retainer with buttons) offering those with mobility limitations access to operate their mobile or desktop devices.
 - [Glydr](https://www.glydr.gg/) - Foot-based game controller that offers game joystick/keyboard input for games, optional switches and peripherals are available.
-- [Tecla-E](https://gettecla.com/products/tecla-e) Control your smart home devices and mobile tech using accessible switches.
-- [GlassOuse Assistive Device](https://glassouse.com/product/glassouse-pro/) Head-operated mouse for users with limited hand mobility to control computers, phones, and smart home devices with head movements.
-- [QuadJoy from QuadLife](https://quad.life/products-builder/p/quadjoy4kit) A sip-and-puff joystick for individuals to operate computers, smart-phone.
+- [Tecla-E](https://gettecla.com/products/tecla-e) - Control your smart home devices and mobile tech using accessible switches.
+- [GlassOuse Assistive Device](https://glassouse.com/product/glassouse-pro/) - Head-operated mouse for users with limited hand mobility to control computers, phones, and smart home devices with head movements.
+- [QuadJoy from QuadLife](https://quad.life/products-builder/p/quadjoy4kit) - A sip-and-puff joystick for individuals to operate computers, smart-phone.
 - [SmyleMouse](https://smylemouse.com/shop/) - $30/m or $499 for Lifetime License A head controlled mouse software that allows hands free control of a computer using facial gestures.
 - [TetraMouse](https://tetramouse.com/) - $350 - $450 Mouth-operated mouse with models
-- [Orin Headmouse](https://www.orin.com/access/headmouse/) Head-tracking mouse that translates head movement into cursor control.
+- [Orin Headmouse](https://www.orin.com/access/headmouse/) - Head-tracking mouse that translates head movement into cursor control.
 - [Wii Remote-based Game Controls with OpenTrack](https://github.com/opentrack/opentrack/wiki/Wiimote-with-opentrack)
 - [Xbox Adaptable Controller (XAC)](https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller)
 - [Tobii Dynavox](https://us.tobiidynavox.com/) / [Pro-Glasses 3 (TBA)](https://www.tobii.com/products/eye-trackers/wearables/tobii-pro-glasses-3) [Apply](https://www.tobii.com/products/eye-trackers/wearables/tobii-pro-glasses-3#form)
-- [Amazon Echo Dot 3](https://a.co/d/7IIIwiN) / [Google Nest (& Mini)](https://store.google.com/us/product/nest_audio?hl=en-US) Smart speakers that provide voice-controlled asstance, music playback, smart home control, and a number of accessibility extensions.
-- [LipSync](https://www.makersmakingchange.com/s/product/lipsync/01tJR000000698fYAA) Mouth-operated input devices that enables individuals with limited hand mobility to control their computers and mobile devices
-- [TD-I Series](https://us.tobiidynavox.com/pages/how-to-buy?refUrl=https://us.tobiidynavox.com/products/td-i-series) A collection of speech-generating devices from Tobii Dynavox that empower individuals with communication disabilities to express themselves and engage with the world.
+- [Amazon Echo Dot 3](https://a.co/d/7IIIwiN) / [Google Nest (& Mini)](https://store.google.com/us/product/nest_audio?hl=en-US) - Smart speakers that provide voice-controlled asstance, music playback, smart home control, and a number of accessibility extensions.
+- [LipSync](https://www.makersmakingchange.com/s/product/lipsync/01tJR000000698fYAA) - Mouth-operated input devices that enables individuals with limited hand mobility to control their computers and mobile devices
+- [TD-I Series](https://us.tobiidynavox.com/pages/how-to-buy?refUrl=https://us.tobiidynavox.com/products/td-i-series) - A collection of speech-generating devices from Tobii Dynavox that empower individuals with communication disabilities to express themselves and engage with the world.
 ## iOS
-- [Hawkeye Sidekick](https://apps.apple.com/us/app/hawkeye-sidekick/id1492668756) - [Hawkeye Sidekick](https://streamyourcare.com/GLOSSARY.html#hawkeye-sidekick "An iOS application that facilitates the control of a Mac computer through the utilization of head movements.") lets you control your Mac using head movements. Rotate your head to move the mouse and make facial expressions to click, drag, and scroll. Powered by your iPhone or iPad's TrueDepth camera.
+- [Hawkeye Sidekick](https://apps.apple.com/us/app/hawkeye-sidekick/id1492668756) - [Hawkeye Sidekick](https://streamyourcare.com/GLOSSARY.html#hawkeye-sidekick) - "An iOS application that facilitates the control of a Mac computer through the utilization of head movements.") lets you control your Mac using head movements. Rotate your head to move the mouse and make facial expressions to click, drag, and scroll. Powered by your iPhone or iPad's TrueDepth camera.
 - [Voice Access](https://support.apple.com/en-us/111778) - Operate your iOS 13+ device with your voice
 - [Envision AI](https://apps.apple.com/us/app/envision-ai/id1268632314) - Envision is developed for and together with the visually impaired community. The app is simple, gets things done and brings the best assistive experience to blind and low vision users.
 - [iOS Photos App](https://support.apple.com/photos) - The stock image library app on iOS devices (built in OCR since iOS 15)
