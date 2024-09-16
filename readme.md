@@ -47,7 +47,7 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [SmyleMouse](https://smylemouse.com/shop/) - $30/m or $499 for Lifetime License A head controlled mouse software that allows hands free control of a computer using facial gestures.
 - [TetraMouse](https://tetramouse.com/) - $350 - $450 Mouth-operated mouse with models.
 - [Orin Headmouse](https://www.orin.com/access/headmouse/) - Head-tracking mouse that translates head movement into cursor control.
-- [Wii Remote-based Game Controls with OpenTrack](https://github.com/opentrack/opentrack/wiki/Wiimote-with-opentrack)
+- [Wii Remote-based Game Controls with OpenTrack](https://github.com/opentrack/opentrack/wiki/Wiimote-with-opentrack) - Head tracking software for MS Windows, Linux, and Apple OSX.
 - [Xbox Adaptable Controller (XAC)](https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller) - A customizable game controller designed by Microsoft for gamers with limited mobility. It features large programmable buttons and ports to connect external devices like switches, buttons, and joysticks.
 - [Tobii Dynavox](https://us.tobiidynavox.com/) - A range of assistive technology devices and software designed to help individuals with communication and mobility challenges. This includes speech-generating devices and eye-tracking technology.
 - [Pro-Glasses 3 (Apply)](https://www.tobii.com/products/eye-trackers/wearables/tobii-pro-glasses-3#form) - Wearable eye-tracking glasses that capture detailed first-person perspectives, used for research and training to understand human behavior in real-world environments.
