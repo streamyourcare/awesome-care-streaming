@@ -65,8 +65,8 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [Perplexity Search](https://apps.apple.com/us/app/perplexity-ask-anything/id1668000334) - Guided AI search for deeper exploration.
 - [Discord](https://apps.apple.com/us/app/discord-chat-talk-hangout/id985746746) - Community social media app for managing your topic or interest-focused communities.
 - [Facebook Groups](https://www.facebook.com/groups/) - Search for local or general groups you identify with.
-- [LinkedIn](https://www.linkedin.com/signup)
-- [LinkedIn Groups](https://www.linkedin.com/help/linkedin/answer/a544795/finding-and-joining-a-linkedin-group?lang=en)
+- [LinkedIn](https://www.linkedin.com/signup) - A professional networking platform where you can connect with colleagues, discover job opportunities, and showcase your professional achievements and skills.
+- [LinkedIn Groups](https://www.linkedin.com/help/linkedin/answer/a544795/finding-and-joining-a-linkedin-group?lang=en) - Virtual communities within LinkedIn where professionals with shared interests or industries can discuss topics, share insights, and build valuable connections.
 - [Nextdoor (US-only*)](https://apps.apple.com/us/app/nextdoor-neighborhood-network/id640360962) - A neighborhood app for staying in the loop regarding local events, markets, and opportunities.
 - [PatientsLikeMe](https://apps.apple.com/in/app/patientslikeme/id1237832232) - A social media app for sharing regular updates with people that share your condition. ([Patients Like Me Data-Use Policies](https://blog.patientslikeme.com/health-conditions/als/what-data-do-we-sell-a-continued-discussion-about-data-scraping/))
 - [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669) - A free, secure messaging app that uses end-to-end encryption to keep your conversations private. Share text, voice messages, photos, videos, GIFs and files for free.
