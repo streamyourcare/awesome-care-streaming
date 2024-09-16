@@ -48,10 +48,10 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [TetraMouse](https://tetramouse.com/) - $350 - $450 Mouth-operated mouse with models.
 - [Orin Headmouse](https://www.orin.com/access/headmouse/) - Head-tracking mouse that translates head movement into cursor control.
 - [Wii Remote-based Game Controls with OpenTrack](https://github.com/opentrack/opentrack/wiki/Wiimote-with-opentrack)
-- [Xbox Adaptable Controller (XAC)](https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller)
-- [Tobii Dynavox](https://us.tobiidynavox.com/)
-- [Pro-Glasses 3 (Apply)](https://www.tobii.com/products/eye-trackers/wearables/tobii-pro-glasses-3#form)
-- [Amazon Echo Dot 3](https://a.co/d/7IIIwiN)
+- [Xbox Adaptable Controller (XAC)](https://www.xbox.com/en-US/accessories/controllers/xbox-adaptive-controller) - A customizable game controller designed by Microsoft for gamers with limited mobility. It features large programmable buttons and ports to connect external devices like switches, buttons, and joysticks.
+- [Tobii Dynavox](https://us.tobiidynavox.com/) - A range of assistive technology devices and software designed to help individuals with communication and mobility challenges. This includes speech-generating devices and eye-tracking technology.
+- [Pro-Glasses 3 (Apply)](https://www.tobii.com/products/eye-trackers/wearables/tobii-pro-glasses-3#form) - Wearable eye-tracking glasses that capture detailed first-person perspectives, used for research and training to understand human behavior in real-world environments.
+- [Amazon Echo Dot 3](https://a.co/d/7IIIwiN) - A smart speaker with Alexa voice assistant, offering voice-controlled assistance, music playback, smart home control, and various accessibility features.
 - [Google Nest (& Mini)](https://store.google.com/us/product/nest_audio?hl=en-US) - Smart speakers that provide voice-controlled asstance, music playback, smart home control, and a number of accessibility extensions.
 - [LipSync](https://www.makersmakingchange.com/s/product/lipsync/01tJR000000698fYAA) - Mouth-operated input devices that enables individuals with limited hand mobility to control their computers and mobile devices.
 - [TD-I Series](https://us.tobiidynavox.com/pages/how-to-buy?refUrl=https://us.tobiidynavox.com/products/td-i-series) - A collection of speech-generating devices from Tobii Dynavox that empower individuals with communication disabilities to express themselves and engage with the world.
