@@ -139,13 +139,13 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 ## Follow
 We've had the opportunity to interview these livestreamers with disabilities. They have inspired a lot of the tools and configurations we make, please go check them out and give them a follow 😁
 
-- SteamyBiscuit [YouTube](https://www.youtube.com/c/SteamyBiscuit) [Twitch](https://www.twitch.tv/steamybiscuit) [TikTok](https://www.tiktok.com/@steamybiscuitx)
-- GucciMula160 [Twitch](https://twitch.tv/Gucci_Mula160) [YouTube](https://www.youtube.com/@guccimula160) [TikTok](https://www.tiktok.com/@guccimula160)
-- EddieMancuso [TikTok](https://www.tiktok.com/@ta51722) [Twitch](https://twitch.tv/EddieMancuso) [Instagram](https://www.instagram.com/p/C4Wn_prhCX8/)
-- BrianJones [TikTok](https://www.tiktok.com/@brianjones2702)
-- IllenialWheeler [Twitch](https://twitch.tv/illenialwheeler) [YouTube](https://www.youtube.com/channel/UCvrMDgtDVkt_KoohAqUv9MQ) [X (Twitter)](https://twitter.com/illenialwheeler)
+- SteamyBiscuit [YouTube](https://www.youtube.com/c/SteamyBiscuit) [Twitch](https://www.twitch.tv/steamybiscuit) [TikTok](https://www.tiktok.com/@steamybiscuitx) [Interview](https://youtu.be/niHL_vHY0T8?si=1gl_cPsUyMGBsYK9)
+- GucciMula160 [Twitch](https://twitch.tv/Gucci_Mula160) [YouTube](https://www.youtube.com/@guccimula160) [TikTok](https://www.tiktok.com/@guccimula160) [Interview](https://youtu.be/pqFN3isDaAk?si=8rrMWAypYLdVq8Fe)
+- EddieMancuso [TikTok](https://www.tiktok.com/@ta51722) [Twitch](https://twitch.tv/EddieMancuso) [Instagram](https://www.instagram.com/p/C4Wn_prhCX8/) [Interview](https://youtu.be/fWOdPAAD-Kw?si=oPuwlIcjnkE5vEWX)
+- BrianJones [TikTok](https://www.tiktok.com/@brianjones2702) [Interview](https://youtu.be/8POS-KjYuuE?si=bLjrMeiggEswcn2w)
+- IllenialWheeler [Twitch](https://twitch.tv/illenialwheeler) [YouTube](https://www.youtube.com/channel/UCvrMDgtDVkt_KoohAqUv9MQ) [X (Twitter)](https://twitter.com/illenialwheeler) [Interview](https://youtu.be/gA0ipMwK6mM?si=lAOy4WUvIfwIlowC)
 - MyahRichards920 [TikTok](https://www.tiktok.com/@myahrichards920)
-- Tru3_Klng [Twitch](https://www.twitch.tv/tru3_klng/about)
+- Tru3_Klng [Twitch](https://www.twitch.tv/tru3_klng/about) [Interview](https://youtu.be/X5kGLjnCcY8?si=BBv2UD73cuiCmA0y)
 - StreamYourCare [Twitch](https://twitch.tv/livinginawheelchair) [YouTube](https://www.youtube.com/@Stream-Your-Care) [X](https://x.com/streamyourcare) [TikTok](https://www.tiktok.com/@faulknerfellowship)
 
 ## Contributing
