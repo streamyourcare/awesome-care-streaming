@@ -132,6 +132,7 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [Streamer.Bot](https://streamer.bot/)
 - [Twitchat (Win)](https://twitchat.fr/) - Free tool for making Plug-N-Play customizable features and improvements for your livestream. Web-based stream management tool with pre-made features importable with a few clicks.
 - [Firebot](https://firebot.app/)
+
 <a href="#contents"><p align="right"></p>Back to Top</a>
 ## Streaming Guides
 - [StreamBig.net](https://streambig.net/) - "a great resource for those who are looking to get started streaming on their own, or just want to grow their stream, but don't really know where to start."
@@ -139,6 +140,7 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [Overcoming Unmotivated Streaming](https://www.youtube.com/watch?v=lY7gb2SahyI)
 - [How to  a Disability Advocate - Olivia Holler (Cripple Media)](https://cripplemedia.com/how-to-become-a-disability-advocate/)
 - [Netflix Cameras & Image Capture: Requirements & Best Practices](https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-Image-Capture-Requirements-and-Best-Practices)
+
 <a href="#contents"><p align="right"></p>Back to Top</a>
 <!-- END CONTENT -->
 
