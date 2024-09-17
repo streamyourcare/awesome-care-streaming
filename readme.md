@@ -72,6 +72,7 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [PatientsLikeMe](https://apps.apple.com/in/app/patientslikeme/id1237832232) - A social media app for sharing regular updates with people that share your condition. ([Patients Like Me Data-Use Policies](https://blog.patientslikeme.com/health-conditions/als/what-data-do-we-sell-a-continued-discussion-about-data-scraping/))
 - [Signal](https://apps.apple.com/us/app/signal-private-messenger/id874139669) - A free, secure messaging app that uses end-to-end encryption to keep your conversations private. Share text, voice messages, photos, videos, GIFs and files for free.
 - [AR WIFi&5G](https://apps.apple.com/us/app/ar-wifi-5g/id1556085228) - Visualize wireless signal strength with augmented reality.
+<a href="#contents"><p align="right"></p>Back to Top</a>
 ## Android
 - [Android Accessibility Suite](https://play.google.com/store/apps/details?id=com.google.android.marvin.talkback&hl=en&gl=us) - Android Accessibility Suite is a collection of accessibility apps that help you use your Android device eyes-free or with a switch device.
 - [BIG Launcher](https://play.google.com/store/apps/details?id=name.kunes.android.launcher.demo&hl=en&gl=us) - A fast and simple Android home screen for seniors and people with vision problems (Free with in-app purchases).
@@ -88,6 +89,7 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [Khan Academy](https://play.google.com/store/apps/details?id=org.khanacademy.android&hl=en&gl=us) - "Learn anything for free", a vast range of free topic courses.
 - [InShot](https://play.google.com/store/apps/details?id=com.camerasideas.instashot&pcampaignid=web_share) - Powerful all-in-one Video Editor and Video Maker with professional features. Add music, text, transition effects for videos, make smooth slow motion, make video collage, blur background and etc!
 - [Snapseed](https://play.google.com/store/apps/details?id=com.niksoftware.snapseed) - Snapseed is a complete and professional photo editor developed by Google.
+<a href="#contents"><p align="right"></p>Back to Top</a>
 ## PC (Windows)
 - [Ninite](https://ninite.com/) - Great for installing multiple programs at once on a new computer.
 - [File-Converter](https://file-converter.io/) - Quickly converts most file-types locally.
@@ -97,12 +99,14 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [Calibre - eBook manager](https://calibre-ebook.com/)
 - [Search Everything](https://www.voidtools.com/)
 - [HitomiDownloader - KurtBestor](https://github.com/KurtBestor/Hitomi-Downloader) - Free desktop utility to download images/videos/music/text from various websites, and more.
+<a href="#contents"><p align="right"></p>Back to Top</a>
 ## macOS
 - [ClipMenu](https://www.clipmenu.com/) - Clipboard History Tool for macOS.
 - [MacApps](https://macapps.link/en/) - Installs multiple apps at once. Great for setting up a new computer.
 - [Sindre Sorhus Mac Apps](https://sindresorhus.com/apps) - Free Mac Apps from Sindre Sorhus.
 - [DoodleDraw](https://apps.apple.com/us/app/doodle-draw/id6476447055) - Quickly transform thoughts into doodles. A sketchpad for your ideas, providing a fluid and intuitive drawing experience, perfect for both seasoned artists and those new to sketching.
 - [Discord](https://discord.com/download) ([Discord Guide](https://discordguide.github.io/#/desktop) | [Additional Guides](https://github.com/Ki-er/awesome-discord-tools?tab=readme-ov-file#guides)) - Community social media app for managing your topic/interest-focused communities. [Free Care Streamer Community Template (with 🔔alert roles🔔)](https://medium.com/@faulknerfellowship/care-stream-discord-template-community-roles-command-setup-bdefb118e263)
+<a href="#contents"><p align="right"></p>Back to Top</a>
 ## Web-based Tools
 - [Opus.Pro](https://opus.pro/) - Auto-clips & captions 90 minutes worth of videos for free.
 - [Chrome Remote Desktop](https://remotedesktop.google.com/) - For remote computer support from trusted-friends and family.
@@ -122,19 +126,20 @@ Accessible tools that make livestreaming easier, safer, and more engaging for st
 - [Groq](https://groq.com/) - Empathetic AI assistant, connecting people and providing helpful insights.
 - [Dropbox](https://www.dropbox.com/register) - Affordable storage for your Twitch VODs online ($10/m for 2TB).
 - [Google Drive](https://www.google.com/drive/) - 15GB free cloud storage ($1.99/m for 100GB - $9.99/m for 2TB)
+<a href="#contents"><p align="right"></p>Back to Top</a>
 ## Streaming Software
 - [OBS](https://obsproject.com/download)
 - [Streamer.Bot](https://streamer.bot/)
 - [Twitchat (Win)](https://twitchat.fr/) - Free tool for making Plug-N-Play customizable features and improvements for your livestream. Web-based stream management tool with pre-made features importable with a few clicks.
 - [Firebot](https://firebot.app/)
-
+<a href="#contents"><p align="right"></p>Back to Top</a>
 ## Streaming Guides
 - [StreamBig.net](https://streambig.net/) - "a great resource for those who are looking to get started streaming on their own, or just want to grow their stream, but don't really know where to start."
 - [How to Stream on Twitch - TechBoomers](https://techboomers.com/how-to-stream-on-twitch)
 - [Overcoming Unmotivated Streaming](https://www.youtube.com/watch?v=lY7gb2SahyI)
 - [How to  a Disability Advocate - Olivia Holler (Cripple Media)](https://cripplemedia.com/how-to-become-a-disability-advocate/)
 - [Netflix Cameras & Image Capture: Requirements & Best Practices](https://partnerhelp.netflixstudios.com/hc/en-us/articles/360000579527-Cameras-Image-Capture-Requirements-and-Best-Practices)
-
+<a href="#contents"><p align="right"></p>Back to Top</a>
 <!-- END CONTENT -->
 
 ## Follow
@@ -148,6 +153,7 @@ We've had the opportunity to interview these livestreamers with disabilities. Th
 - MyahRichards920 [TikTok](https://www.tiktok.com/@myahrichards920)
 - Tru3_Klng [Twitch](https://www.twitch.tv/tru3_klng/about) [Interview](https://youtu.be/X5kGLjnCcY8?si=BBv2UD73cuiCmA0y)
 - StreamYourCare [Twitch](https://twitch.tv/livinginawheelchair) [YouTube](https://www.youtube.com/@Stream-Your-Care) [X](https://x.com/streamyourcare) [TikTok](https://www.tiktok.com/@faulknerfellowship)
+<a href="#contents"><p align="right"></p>Back to Top</a>
 
 ## Contributing
 
